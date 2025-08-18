@@ -1,5 +1,5 @@
 ### diabetes-eda-python
-# Machine Learning Practice — Diabetes Dataset ## (Google Colab, Python)
+# Machine Learning Practice — Diabetes Dataset (Google Colab, Python)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Type](https://img.shields.io/badge/project-learning-blue)
 ![ML](https://img.shields.io/badge/topic-machine%20learning-lightgrey)
@@ -60,10 +60,8 @@
 - การวิเคราะห์ feature importance ของ Random Forest ก็แสดงให้เห็นว่า bmi และ s5 เป็น feature ที่มีอิทธิพลสูงที่สุดเช่นกัน
 - โดยรวมแล้ว dataset นี้มี **ความสามารถในการพยากรณ์ในระดับปานกลาง** – ถึงแม้ Linear Regression จะให้ผลดีที่สุด แต่การเปรียบเทียบ actual vs predicted ยังเห็นว่ามีช่องว่างบางส่วนที่สามารถปรับปรุงได้ในอนาคต
 ---
-
 ### Notebook
-👉 View the full code and analysis in Google Colab:  
-https://colab.research.google.com/drive/1-2G1mkhT9AJHWs9Kz0MCbKWa3AoTbEN6?usp=sharing
+### 👉 View the full code and analysis in Google Colab: https://colab.research.google.com/drive/1-2G1mkhT9AJHWs9Kz0MCbKWa3AoTbEN6?usp=sharing
 ---
 ### Possible Improvements (next iteration)
 - Hyperparameter tuning  
