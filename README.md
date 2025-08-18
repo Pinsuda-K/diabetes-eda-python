@@ -10,7 +10,7 @@
 > ✅ apply Python for data cleaning and EDA
 > ✅ build and compare basic machine learning models
 > ✅ evaluate and interpret results
-
+> For educational use only — do not redistribute commercially
 ### Objective
 - Use a diabetes dataset to practice the full machine learning workflow, from data cleaning → visualization → model building and comparison (Logistic Regression, Decision Tree, etc.).
 ---
