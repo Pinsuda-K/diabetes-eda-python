@@ -6,10 +6,11 @@
 ![Python](https://img.shields.io/badge/language-python-blue)
 ![Colab](https://img.shields.io/badge/notebook-colab-orange)
 
-> This project was completed as part of a personal assignment to practice data analysis and model building using Python. The dataset contains anonymized medical information related to diabetes. The goal of the assignment was **not clinical research**, but rather to:
+> This project was completed as part of a personal assignment to practice data analysis and model building using Python. The dataset contains anonymized medical information related to diabetes. The goal of the assignment was **not clinical research**, but rather to:  
 > ✅ apply Python for data cleaning and EDA
 > ✅ build and compare basic machine learning models
 > ✅ evaluate and interpret results
+
 > For educational use only — do not redistribute commercially
 ### Objective
 - Use a diabetes dataset to practice the full machine learning workflow, from data cleaning → visualization → model building and comparison (Logistic Regression, Decision Tree, etc.).
