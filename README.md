@@ -1,4 +1,4 @@
-### diabetes-eda-python
+#### diabetes-eda-python
 # Machine Learning Practice — Diabetes Dataset (Google Colab, Python)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Type](https://img.shields.io/badge/project-learning-blue)
@@ -62,7 +62,7 @@
 - โดยรวมแล้ว dataset นี้มี **ความสามารถการพยากรณ์ในระดับปานกลาง** – ถึงแม้ Linear Regression จะให้ผลดีที่สุด แต่การเปรียบเทียบ actual vs predicted ยังเห็นว่ายังคงมีช่องว่างบางส่วนที่สามารถนำไปปรับปรุงได้ต่อในอนาคต
 ---
 ### Notebook
-### 👉 View the full code and analysis in Google Colab: https://colab.research.google.com/drive/1-2G1mkhT9AJHWs9Kz0MCbKWa3AoTbEN6?usp=sharing
+#### View the full code and analysis in Google Colab 👉 https://colab.research.google.com/drive/1-2G1mkhT9AJHWs9Kz0MCbKWa3AoTbEN6?usp=sharing
 ---
 ### Possible Improvements (next iteration)
 - Hyperparameter tuning  
